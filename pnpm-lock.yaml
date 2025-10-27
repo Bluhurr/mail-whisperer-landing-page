@@ -83,9 +83,6 @@ importers:
       typescript:
         specifier: ^5.8.3
         version: 5.8.3
-      zod:
-        specifier: ^3.24.4
-        version: 3.24.4
 
 packages:
 
@@ -1628,9 +1625,6 @@ packages:
   yallist@5.0.0:
     resolution: {integrity: sha512-YgvUTfwqyc7UXVMrB+SImsVYSmTS8X/tSrtdNZMImM+n7+QTriRXyXim0mBrTXNeqzVF0KWGgHPeiyViFFrNDw==}
     engines: {node: '>=18'}
-
-  zod@3.24.4:
-    resolution: {integrity: sha512-OdqJE9UDRPwWsrHjLN2F8bPxvwJBK22EHLWtanu0LSYr5YqzsaaW3RMgmjwr8Rypg5k+meEJdSPXJZXE/yqOMg==}
 
 snapshots:
 
@@ -3183,5 +3177,3 @@ snapshots:
       react: 19.1.0
 
   yallist@5.0.0: {}
-
-  zod@3.24.4: {}
